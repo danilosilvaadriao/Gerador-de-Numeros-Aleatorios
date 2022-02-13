@@ -1,6 +1,6 @@
 # Gerador de Números Aleatórios
 
-<a href="https://danilosilvaadriao.github.io/Gerador-de-Numeros-Aleatorios/"><h2>Clique aqui para testar o projeto</h2></a>
+<a href="https://danilosilvaadriao.github.io/Gerador-de-Numeros-Aleatorios"><h2>Clique aqui para testar o projeto</h2></a>
 
 Desafio de criação de um gerador aleatório de números proposto no curso do Igor Oliveira do curso ProgramadorBR.
 <br>
