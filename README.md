@@ -7,7 +7,7 @@ Desafio de criação de um gerador aleatório de números proposto no curso do I
 
 <h2> Gif do desafio: <h2> <br>
 
-![clone Netflix](https://user-images.githubusercontent.com/82722083/120560095-8a905880-c3d8-11eb-975d-57244201c552.gif)
+  ![gerador de numeros](https://user-images.githubusercontent.com/82722083/153781322-348f5f8d-571e-42d3-9cc6-9490b3672a32.gif)
   
    ## Tecnologias
   - [HTML5](https://html.spec.whatwg.org/multipage/)
