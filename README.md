@@ -2,7 +2,7 @@
 
 <a href="https://danilosilvaadriao.github.io/Gerador-de-Numeros-Aleatorios"><h2>Clique aqui para testar o projeto</h2></a>
 
-Desafio de criação de um gerador aleatório de números proposto no curso do Igor Oliveira do curso ProgramadorBR.
+Desafio de criação de um gerador aleatório de números proposto no curso do Igor Oliveira do curso ProgramadorBR. Utilizamos a linguagem de programação JavaScript, o CSS e o HTML.
 <br>
 
 <h2> Gif do desafio: <h2> <br>
